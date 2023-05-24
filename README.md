@@ -97,6 +97,10 @@ The application should now be running locally. Open a web browser and navigate t
 ![alt text](https://github.com/ahmedhjaj/Charity-Managment-Website/blob/main/screenshots/11.png)
 ![alt text](https://github.com/ahmedhjaj/Charity-Managment-Website/blob/main/screenshots/12.png)
 
+# Contributors
+[ <a href="https://github.com/ahmedhjaj/">Ahmed Hagag</a>] - [ <a href="https://github.com/MariamAmy">Mariam Ayman</a>] - [ <a href="https://github.com/SohailaKandil">Sohaila Kandil</a>] - [ <a href="https://github.com/youssef-elharty">Youssef El-harty</a>]
+
+
 # Contact
 
 For any inquiries or further assistance, please reach out to me through: 
